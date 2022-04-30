@@ -1,0 +1,52 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.header {
+    background-color: #aeb0b1;
+    padding: 18px 20px;
+}
+
+.credit {
+    font-size: 10px;
+    text-align: right;
+}
+
+.title {
+    text-align: center;
+}
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #181818;
+}
+
+.link {
+    float: left;
+}
+
+.page {
+    display: block;
+    color: white;
+    padding: 14px 18px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+li a:hover {
+    background-color: rgb(122, 146, 138);
+}
+
+#photo {
+
+}
+
+.list {
+    text-align: center;
+}
